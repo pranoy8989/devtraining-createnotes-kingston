@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="m2m_sp_dependency_js_include">
+    <m2m_sp_dependency_js_include action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sp_dependency display_value="Date JS">5481a69bdb9d13005b1f73ffbf961963</sp_dependency>
+        <sp_js_include display_value="https://cdnjs.cloudflare.com/ajax/libs/datejs/1.0/date.min.js">98c1ea5fdb9d13005b1f73ffbf9619af</sp_js_include>
+        <sys_class_name>m2m_sp_dependency_js_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-11 15:59:26</sys_created_on>
+        <sys_id>48d3ea5fdb9d13005b1f73ffbf961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ng-material.https://cdnjs.cloudflare.com/ajax/libs/datejs/1.0/date.min.js</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>m2m_sp_dependency_js_include_48d3ea5fdb9d13005b1f73ffbf961939</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-11 15:59:26</sys_updated_on>
+    </m2m_sp_dependency_js_include>
+</record_update>
